@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+}
+
+.c1 {
+	font-size: 60px;
+}
+
+ .c2 {
+ 	 color: blue;
+ }
+
+.c3 {
+	font-size: 60px;
+}
+
+.c4 {
+	 color: red;
+}
+
+.c5 {
+	color: blue;
+}
+
+.c6 {
+	color: green;
+}
+
+.c7 {
+	color: yellow;
+}
+
+.c8 {
+	color: orange;
+}
+
+.c9 {
+	 color: pink
+}
+
+.c10 {
+	color: gray;
+}
+
+.sp {
+	width: 1200px; 
+	background: #ddd;
+	color: green;
+	padding: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 22px;
+	overflow: hidden;
+}
+
+.sp1 {
+	padding: 30px;
+	width: 300px;
+	float: right;
+	box-sizing: border-box;
+	background: teal;
+	color: #fff;
+}
+
+.color1 {
+	background: tan;
+	padding: 15px;
+}
+
+.color2 {
+	background: orange;
+	padding: 15px;
+	color: #000;
+}
+.
+color3 {
+	background: pink;
+	padding: 15px;
+	color: #000;
+}
+
+.color4 {
+	background: green;
+	padding: 15px;
+}
